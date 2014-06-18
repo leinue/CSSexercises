@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:"微软雅黑";
+	font-size:12px;
+	line-height:24px;
+	color:#930;
+	background-color::#0000;
+	width:780px;}
+	
+#menu{
+	background-image:url("file:///G|/图片/9551/达达.jpg")
+	}
+	
+#text{
+	background-image:url("file:///G|/图片/9551/达达.jpg")
+	}
+	
+#images{
+	background-image:url("file:///G|/图片/9551/达达.jpg")
+	}
+	
+#footer{
+	background-image:url("file:///G|/图片/9551/达达.jpg")
+	}
